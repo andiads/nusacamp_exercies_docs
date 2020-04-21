@@ -1,3 +1,4 @@
+18/04/2020
 kafka: menyimpan queue msg
 >banking ada mau liat history transaksi,harus liat query dlu 
 saat dikirim ke belakang itu di pull disitu 
