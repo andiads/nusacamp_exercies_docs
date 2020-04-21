@@ -1,0 +1,4 @@
+kafka: menyimpan queue msg
+>banking ada mau liat history transaksi,harus liat query dlu 
+saat dikirim ke belakang itu di pull disitu 
+> biasa utk meringankan proses ribuan realtime requests pada backend
